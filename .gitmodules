@@ -1,0 +1,3 @@
+[submodule "BioComplexity.wiki"]
+	path = BioComplexity.wiki
+	url = https://github.com/jdyeakel/BioComplexity.wiki.git
